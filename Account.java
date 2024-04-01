@@ -1,5 +1,5 @@
 package exceptionEx;
-//은행 계좌 클래스 (국민은행)
+//은행 계좌 클래스 (국민은행) -> 멤버변수 접근제한자로 보호, getter, setter 설정
 public class Account {
 	//멤버 변수
 	String accountNo; //계좌번호
